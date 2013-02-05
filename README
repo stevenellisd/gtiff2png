@@ -1,0 +1,2 @@
+gtiff2png converts a GeoTIFF into a PNG heightmap and corresponding text file
+containing location information
